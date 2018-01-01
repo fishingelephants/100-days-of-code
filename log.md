@@ -1,11 +1,16 @@
 # 100 Days Of Code - Leif Latiff - Log
-My name is Leif. I'm a Javascript enthusiast (for now). Know me better at fishingelephants.com.
+My name is Leif. I'm a Javascript enthusiast. Know me better at fishingelephants[dot]com.
+
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
 ### Day 1: January 1st, 2018
 
-**Today's Progress**:
+**Today's Progress:** How Javascript Works
+- Javascript Parsers and Engines
+- Execution contexts and the Execution Stack
+- Hoisting in practice
+- Scoping and the Scope Chain
 
-**Thoughts:**
+**Thoughts:** Better understanding on the theories. I would normally skip these and go straight to coding but knowing there will be some codes at the end, so I waited. 
 
-**Links:** 
+**Link to work:** I will push this to github at some point of the course.
