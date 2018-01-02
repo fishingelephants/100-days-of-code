@@ -3,6 +3,18 @@ My name is Leif. I'm a Javascript enthusiast. Know me better at fishingelephants
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
+### Day 2: January 2nd, 2018
+
+**Today's Progress:** How Javascript Works & working on BIL Portfolio
+- The 'this' keyword & in practice (How JS Works)
+- Added more photos in gallery (BIL)
+
+**Thoughts:** 
+- Having hard time understanding the 'this' method. 
+- Currently stuck in adding to display images from a folder.
+
+**Link to work:** I will push this to github at some point of the course.
+
 ### Day 1: January 1st, 2018
 
 **Today's Progress:** How Javascript Works
