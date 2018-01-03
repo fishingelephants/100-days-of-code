@@ -8,9 +8,12 @@ I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where
 **Today's Progress:** Javascript DOM and Pig Game
 - Learned more about DOM manipulation and events
 - Setup mini project Pig Game with DOM
+-- Pig Game - To put random scores and display it on each players
+-- Pig Game - To set dice to not visible during start
 
 **Thoughts:** 
-- To be honest, didn't really pay attention on DOM and was eager to start the project. 
+- To be honest, I didn't really pay attention on DOM and was eager to start the project.
+- Seriously I just can't focus during theories/lectures.
 
 **Link to work:** I will push this to github at some point of the course.
 
