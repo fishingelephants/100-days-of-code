@@ -3,6 +3,20 @@ My name is Leif. I'm a Javascript enthusiast. Know me better at fishingelephants
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
+### Day 4: January 4th, 2018
+
+**Today's Progress:** Javascript Events/Events Handler for Pig Game
+- Rolling the dice
+- Put all scores to 0
+- Updating scores and changing the active player
+- Implement 'Hold' function and the DRY principle
+
+**Thoughts:** 
+- Beginning to understand more
+- The game became apparent and fun
+
+**Link to work:** I will push this to github at some point of the course.
+
 ### Day 3: January 3rd, 2018
 
 **Today's Progress:** Javascript DOM and Pig Game
