@@ -3,6 +3,16 @@ My name is Leif. I'm a Javascript enthusiast. Know me better at fishingelephants
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
+### Day 6: January 6th, 2018
+
+**Today's Progress:** 1st new rule for the Pig Game
+- A player looses his ENTIRE score when he rolls two 6 in a row. Then the next player's turn.
+
+**Thoughts:** 
+- Good practice and understanding by modifying the game's rule play.
+
+**Link to work:** I will push this to github at some point of the course.
+
 ### Day 5: January 5th, 2018
 
 **Today's Progress:** Completing the Pig Game
