@@ -3,7 +3,22 @@ My name is Leif. I'm a Javascript enthusiast. Know me better at fishingelephants
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
-### Day 6: January 6th, 2018
+### Day 7: January 7th, 2018
+
+**Today's Progress:** Pig Game - Additional features and rules
+- [Correction] When dice was thrown 6 in a row, it went straight to reset without seeing the last dice number
+- [New feature] Add an input field to the HTML where players can set the winning score, so that they can change the predefined score of 100
+- [New feature] Add another dice to make it TWO
+- [New rule] Player loses turn when ONE of the dices gets 1
+
+**Thoughts:** 
+- Learning more on .value javascript property
+- Good revision for previous challenges
+
+**Link to work:** I will push this to github at some point of the course.
+
+
+### Day 6: January 7th, 2018
 
 **Today's Progress:** 1st new rule for the Pig Game
 - A player looses his ENTIRE score when he rolls two 6 in a row. Then the next player's turn.
