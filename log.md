@@ -3,9 +3,19 @@ My name is Leif. I'm a Javascript enthusiast. Know me better at fishingelephants
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
+### Day 8: January 8th, 2018
+
+**Today's Progress:** Advanced #Javascript - Objects and Functions
+- Learned about inheritance and the prototype chain
+
+**Thoughts:** 
+- Again, I really slow with theories. I need to see the codes to understand everything.
+
+**Link to work:** None
+
 ### Day 7: January 7th, 2018
 
-**Today's Progress:** Pig Game - Additional features and rules
+**Today's Progress:** Pig Game - Additional features/rules and completion
 - [Correction] When dice was thrown 6 in a row, it went straight to reset without seeing the last dice number
 - [New feature] Add an input field to the HTML where players can set the winning score, so that they can change the predefined score of 100
 - [New feature] Add another dice to make it TWO
@@ -15,7 +25,7 @@ I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where
 - Learning more on .value javascript property
 - Good revision for previous challenges
 
-**Link to work:** I will push this to github at some point of the course.
+**Link to work:** https://github.com/fishingelephants/pig-game
 
 
 ### Day 6: January 7th, 2018
@@ -26,7 +36,7 @@ I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where
 **Thoughts:** 
 - Good practice and understanding by modifying the game's rule play.
 
-**Link to work:** I will push this to github at some point of the course.
+**Link to work:** https://github.com/fishingelephants/pig-game
 
 ### Day 5: January 5th, 2018
 
@@ -39,7 +49,7 @@ I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where
 **Thoughts:** 
 - I'm able to memorized previous functions/codes
 
-**Link to work:** I will push this to github at some point of the course.
+**Link to work:** https://github.com/fishingelephants/pig-game
 
 ### Day 4: January 4th, 2018
 
@@ -53,7 +63,7 @@ I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where
 - Beginning to understand more
 - The game became apparent and fun
 
-**Link to work:** I will push this to github at some point of the course.
+**Link to work:** https://github.com/fishingelephants/pig-game
 
 ### Day 3: January 3rd, 2018
 
@@ -67,7 +77,7 @@ I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where
 - To be honest, I didn't really pay attention on DOM and was eager to start the project.
 - Seriously I just can't focus during theories/lectures.
 
-**Link to work:** I will push this to github at some point of the course.
+**Link to work:** https://github.com/fishingelephants/pig-game
 
 ### Day 2: January 2nd, 2018
 
@@ -79,7 +89,7 @@ I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where
 - Having hard time understanding the 'this' method. 
 - Currently stuck in adding to display images from a folder.
 
-**Link to work:** I will push this to github at some point of the course.
+**Link to work:** https://github.com/fishingelephants/pig-game
 
 ### Day 1: January 1st, 2018
 
@@ -91,4 +101,4 @@ I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where
 
 **Thoughts:** Better understanding on the theories. I would normally skip these and go straight to coding but knowing there will be some codes at the end, so I waited. 
 
-**Link to work:** I will push this to github at some point of the course.
+**Link to work:** https://github.com/fishingelephants/pig-game
