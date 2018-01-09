@@ -3,13 +3,25 @@ My name is Leif. I'm a Javascript enthusiast. Know me better at fishingelephants
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
+### Day 9: January 9th, 2018
+
+**Today's Progress:** Advanced #Javascript - Objects and Functions
+- The prototype chain in the console
+- Creating Objects: Object.create
+- Primitives vs Objects
+
+**Thoughts:** 
+- Dizzy. Too many stuff.
+
+**Link to work:** None
+
 ### Day 8: January 8th, 2018
 
 **Today's Progress:** Advanced #Javascript - Objects and Functions
 - Learned about inheritance and the prototype chain
 
 **Thoughts:** 
-- Again, I really slow with theories. I need to see the codes to understand everything.
+- Again, I'm really slow with theories. I need to see the codes to understand everything.
 
 **Link to work:** None
 
