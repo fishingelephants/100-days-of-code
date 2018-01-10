@@ -3,6 +3,17 @@ My name is Leif. I'm a Javascript enthusiast. Know me better at fishingelephants
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
+### Day 10: January 10th, 2018
+
+**Today's Progress:** Advanced #Javascript - Objects and Functions 
+- First Class Functions: Passing Functions as Arguments
+- First Class Functions: Functions Returning Functions
+
+**Thoughts:** 
+- Learning more about functions and it is hard to keep up
+
+**Link to work:** None
+
 ### Day 9: January 9th, 2018
 
 **Today's Progress:** Advanced #Javascript - Objects and Functions
