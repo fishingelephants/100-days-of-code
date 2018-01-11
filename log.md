@@ -3,6 +3,19 @@ My name is Leif. I'm a Javascript enthusiast. Know me better at fishingelephants
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
+### Day 11: January 12th, 2018
+
+**Today's Progress:** Advanced #Javascript - Objects and Functions 
+- Immediately Invoke Functions Expressions (IIFE)
+- Closures
+- Bind, Call and Apply
+
+**Thoughts:** 
+- Pretty interesting topic tonight. 
+- I kinda like IIFE, Closures and BCA because they can correlated with each other.
+
+**Link to work:** None
+
 ### Day 10: January 10th, 2018
 
 **Today's Progress:** Advanced #Javascript - Objects and Functions 
