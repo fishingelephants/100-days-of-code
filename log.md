@@ -3,6 +3,19 @@ My name is Leif. I'm a Javascript enthusiast. Know me better at fishingelephants
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
+### Day 13: January 14th, 2018
+
+**Today's Progress:** Advanced #Javascript - Build fun quiz game in the console 
+- Question prompt and ask for correct answer. The user should input the number of the correct answer
+- To check if the answer is correct and print to the console whether the answer is correct or not
+- To make sure that all your code is private and doesn't interfere with the other programmers code as if this is a plugin
+
+**Thoughts:** 
+- Pretty much practising what I have learned in previous lectures. 
+- Banging my head back and forth for the notes.
+
+**Link to work:** None
+
 ### Day 12: January 13th, 2018
 
 **Today's Progress:** Advanced #Javascript - Build fun quiz game in the console 
