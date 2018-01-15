@@ -3,6 +3,18 @@ My name is Leif. I'm a Javascript enthusiast. Know me better at fishingelephants
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
+### Day 15: January 15th, 2018
+
+**Today's Progress:** The Budget App Project R1D1
+- Project planning and architecture
+- Structuring code with modules - UI Module, Data Module and Controller Module
+- Implementing module pattern
+
+**Thoughts:** 
+- Drafting the plan was fun. It's been awhile since I last working seriously on an app. Since I mostly do frontend for websites, I rarely plan it as proper as this.
+
+**Link to work:** https://github.com/fishingelephants/budgety-app
+
 ### Day 14: January 14th, 2018
 
 **Today's Progress:** Advanced #Javascript - Build fun quiz game in the console 
