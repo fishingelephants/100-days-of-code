@@ -3,47 +3,7 @@ My name is Leif. I'm a Javascript enthusiast. Know me better at fishingelephants
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
-### Day 17: January 17th, 2018
-
-**Today's Progress:** The Budget App Project R1D3
-1. Get the field input data [DONE]
-2. Add the item to the budget controller [DONE]
-3. Add the item to the UI
-4. Calculate the budget
-5. Display the budget on the UI
-6. Keypress 'ENTER' to add item
-
-**Thoughts:** 
-- Had issues with testing method and it took me awhile to still trying to figure out. Will continue tomorrow.
-
-**Link to work:** https://github.com/fishingelephants/budgety-app
-
-### Day 16: January 16th, 2018
-
-**Today's Progress:** The Budget App Project R1D2
-1. Get the field input data [DONE]
-2. Add the item to the budget controller
-3. Add the item to the UI
-4. Calculate the budget
-5. Display the budget on the UI
-6. Keypress 'ENTER' to add item
-
-**Thoughts:** 
-- Coding starts today and it's fun working on my first JavaScript app.
-
-**Link to work:** https://github.com/fishingelephants/budgety-app
-
-### Day 15: January 15th, 2018
-
-**Today's Progress:** The Budget App Project R1D1
-- Project planning and architecture
-- Structuring code with modules - UI Module, Data Module and Controller Module
-- Implementing module pattern
-
-**Thoughts:** 
-- Drafting the plan was fun. It's been awhile since I last working seriously on an app. Since I mostly do frontend for websites, I rarely plan it as proper as this.
-
-**Link to work:** https://github.com/fishingelephants/budgety-app
+### Day 15 - onwards = r1-log.md
 
 ### Day 14: January 14th, 2018
 
