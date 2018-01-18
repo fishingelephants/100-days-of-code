@@ -1,10 +1,55 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Leif Latiff - The Budget App - JavaScript Project
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode #R1 challenge. Started on [January 15th, 2018].
+**Link to work:** https://github.com/fishingelephants/budgety-app
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R1D1 : January 15th, 2018 [Day 15]
 
-### R1D2
+- Project planning and architecture
+- Structuring code with modules - UI Module, Data Module and Controller Module
+- Implementing module pattern
+
+**Thoughts:** 
+- Drafting the plan was fun. It's been awhile since I last working seriously on an app. Since I mostly do frontend for websites, I never really plan anything as proper as this.
+ 
+### R1D2 : January 16th, 2018 [Day 16]
+
+1. Get the field input data [DONE]
+2. Add the item to the budget controller
+3. Add the item to the UI
+4. Calculate the budget
+5. Display the budget on the UI
+6. Keypress 'ENTER' to add item
+
+**Thoughts:** 
+- Coding starts today and it's fun working on my first JavaScript app.
+
+### R1D3 : January 17th, 2018 [Day 17]
+
+1. Get the field input data [DONE]
+2. Add the item to the budget controller [DONE]
+3. Add the item to the UI
+4. Calculate the budget
+5. Display the budget on the UI
+6. Keypress 'ENTER' to add item
+
+**Thoughts:** 
+- Had issues with testing method and it took me awhile to still trying to figure out. Will continue tomorrow.
+
+### R1D4 : January 18th, 2018 [Day 18]
+
+1. Get the field input data [DONE]
+2. Add the item to the budget controller [DONE]
+3. Add the item to the UI [DONE]
+4. Calculate the budget
+5. Display the budget on the UI
+6. Keypress 'ENTER' to add item
+
+**Thoughts:** 
+- Had issues with the HTML file that caused alot of error at first. Until someone pointed it out. Phew.
+
+
+
+
