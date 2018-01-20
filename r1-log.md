@@ -61,6 +61,17 @@ The log of my #100DaysOfCode #R1 challenge. Started on [January 15th, 2018].
 7. Keypress 'ENTER' to add item
 
 **Thoughts:** 
-- Added new task as #4. Now cleaner looking.
+- Added new task at #4. Now cleaner looking. First time using querySelectorAll and a lot of things that I don't quite understand, for now.
 
+### R1D6 : January 20th, 2018 [Day 20]
 
+1. Get the field input data [DONE]
+2. Add the item to the budget controller [DONE]
+3. Add the item to the UI [DONE]
+4. Clear the fields [DONE]--Added
+5. Calculate the budget [DONE]
+6. Display the budget on the UI
+7. Keypress 'ENTER' to add item
+
+**Thoughts:** 
+- Codes more less about calculations. 
