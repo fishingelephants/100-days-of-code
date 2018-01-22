@@ -78,7 +78,7 @@ The log of my #100DaysOfCode #R1 challenge. Started on [January 15th, 2018].
 3. Add the item to the UI [DONE]
 4. Clear the fields [DONE]--Added
 5. Calculate the budget [DONE]
-6. Display the budget on the UI [In progress]
+6. Display the budget on the UI [DONE]
 
 **Thoughts:** 
 - Able to display budget and reset everything to zero. But I'm stucked at the percentage. It's still display '---' in all condition.
@@ -90,7 +90,10 @@ The log of my #100DaysOfCode #R1 challenge. Started on [January 15th, 2018].
 3. Add the item to the UI [DONE]
 4. Clear the fields [DONE]--Added
 5. Calculate the budget [DONE]
-6. Display the budget on the UI
+6. Display the budget on the UI [DONE]
+7. Delete the item from the data structure
+8. Delete the item from the UI
+9. Update and show the new budget
 
 **Thoughts:** 
-- Later
+- Went thru the diagram and planned for the next tasks 7-9.
