@@ -21,7 +21,6 @@ The log of my #100DaysOfCode #R1 challenge. Started on [January 15th, 2018].
 3. Add the item to the UI
 4. Calculate the budget
 5. Display the budget on the UI
-6. Keypress 'ENTER' to add item
 
 **Thoughts:** 
 - Coding starts today and it's fun working on my first JavaScript app.
@@ -33,7 +32,6 @@ The log of my #100DaysOfCode #R1 challenge. Started on [January 15th, 2018].
 3. Add the item to the UI
 4. Calculate the budget
 5. Display the budget on the UI
-6. Keypress 'ENTER' to add item
 
 **Thoughts:** 
 - Had issues with testing method and it took me awhile to still trying to figure out. Will continue tomorrow.
@@ -45,7 +43,6 @@ The log of my #100DaysOfCode #R1 challenge. Started on [January 15th, 2018].
 3. Add the item to the UI [DONE]
 4. Calculate the budget
 5. Display the budget on the UI
-6. Keypress 'ENTER' to add item
 
 **Thoughts:** 
 - Had issues with the HTML file that caused alot of error at first. Until someone pointed it out. Phew.
@@ -58,7 +55,6 @@ The log of my #100DaysOfCode #R1 challenge. Started on [January 15th, 2018].
 4. Clear the fields [DONE]--Added
 5. Calculate the budget
 6. Display the budget on the UI
-7. Keypress 'ENTER' to add item
 
 **Thoughts:** 
 - Added new task at #4. Now cleaner looking. First time using querySelectorAll and a lot of things that I don't quite understand, for now.
@@ -71,7 +67,30 @@ The log of my #100DaysOfCode #R1 challenge. Started on [January 15th, 2018].
 4. Clear the fields [DONE]--Added
 5. Calculate the budget [DONE]
 6. Display the budget on the UI
-7. Keypress 'ENTER' to add item
 
 **Thoughts:** 
 - Codes more less about calculations. 
+
+### R1D7 : January 22th, 2018 [Day 21]
+
+1. Get the field input data [DONE]
+2. Add the item to the budget controller [DONE]
+3. Add the item to the UI [DONE]
+4. Clear the fields [DONE]--Added
+5. Calculate the budget [DONE]
+6. Display the budget on the UI [In progress]
+
+**Thoughts:** 
+- Able to display budget and reset everything to zero. But I'm stucked at the percentage. It's still display '---' in all condition.
+
+### R1D8 : January 22th, 2018 [Day 22]
+
+1. Get the field input data [DONE]
+2. Add the item to the budget controller [DONE]
+3. Add the item to the UI [DONE]
+4. Clear the fields [DONE]--Added
+5. Calculate the budget [DONE]
+6. Display the budget on the UI
+
+**Thoughts:** 
+- Later
