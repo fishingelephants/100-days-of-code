@@ -85,15 +85,25 @@ The log of my #100DaysOfCode #R1 challenge. Started on [January 15th, 2018].
 
 ### R1D8 : January 22th, 2018 [Day 22]
 
-1. Get the field input data [DONE]
-2. Add the item to the budget controller [DONE]
-3. Add the item to the UI [DONE]
-4. Clear the fields [DONE]--Added
-5. Calculate the budget [DONE]
-6. Display the budget on the UI [DONE]
-7. Delete the item from the data structure
-8. Delete the item from the UI
-9. Update and show the new budget
+1. Delete the item from the data structure
+2. Delete the item from the UI
+3. Update and show the new budget
 
 **Thoughts:** 
-- Went thru the diagram and planned for the next tasks 7-9.
+- Went thru the diagram and planned for the next tasks; delete item function.
+
+**Backlogs:**
+- Budget percentage still displaying '---'
+
+### R1D9 : January 24th, 2018 [Day 23]
+
+1. Delete the item from the data structure [DONE]
+2. Delete the item from the UI
+3. Update and show the new budget
+
+**Thoughts:** 
+- No bugs but the delete item was not executed due to itemID being both string and integer
+- Solved with putting parseInt to convert string to integer
+
+**Backlogs:**
+- Budget percentage still displaying '---'
