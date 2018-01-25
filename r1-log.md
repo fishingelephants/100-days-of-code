@@ -107,3 +107,15 @@ The log of my #100DaysOfCode #R1 challenge. Started on [January 15th, 2018].
 
 **Backlogs:**
 - Budget percentage still displaying '---'
+
+### R1D10 : January 25th, 2018 [Day 24]
+
+1. Delete the item from the data structure [DONE]
+2. Delete the item from the UI [DONE]
+3. Update and show the new budget [DONE]
+
+**Thoughts:** 
+- Still not happy with the budget percentage not displaying correctly.
+
+**Backlogs:**
+- Budget percentage still displaying '---'
