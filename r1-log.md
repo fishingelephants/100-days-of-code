@@ -147,3 +147,20 @@ The log of my #100DaysOfCode #R1 challenge. Started on [January 15th, 2018].
 
 **Backlogs:**
 - Budget percentage still displaying '---'
+
+### R1D13 : January 28th, 2018 [Day 27]
+
+1. Calculate percentages [DONE]
+2. Update percentages in UI [DONE]
+3. Display the current month and year
+4. Number formatting
+5. Improve input field UX
+
+**Thoughts:** 
+- Not sure if I screwed up my codes or C9 is missing some of my previous codes.
+- I'm unable to delete item now due to this.
+- Good news is, I managed to solved the budget percentage from previous backlogs. Yay!
+
+**Backlogs:**
+- Budget percentage still displaying '---' [SOLVED]
+- Unable to delete item now *sigh*
