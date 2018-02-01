@@ -1,7 +1,9 @@
 # #100DaysOfCode Log - Round 1 - Leif Latiff - The Budget App - JavaScript Project
 
 The log of my #100DaysOfCode #R1 challenge. Started on [January 15th, 2018].
-**Link to work:** https://github.com/fishingelephants/budgety-app
+
+**Github Repo:** https://github.com/fishingelephants/budgety-app
+**Demo:** https://condescending-jang-530336.netlify.com/
 
 ## Log
 
@@ -178,3 +180,18 @@ The log of my #100DaysOfCode #R1 challenge. Started on [January 15th, 2018].
 
 **Backlogs:**
 - Unable to delete item
+
+### R1D15 : February 1st, 2018 [Day 29]
+
+1. Calculate percentages [DONE]
+2. Update percentages in UI [DONE]
+3. Display the current month and year [DONE]
+4. Number formatting [DONE]
+5. Improve input field UX
+
+**Thoughts:** 
+- Simple and easy coding session for item [4]
+- Finally deployed to Netlify and delete items functions suddenly worked
+
+**Backlogs:**
+- Unable to delete item [SOLVED]
