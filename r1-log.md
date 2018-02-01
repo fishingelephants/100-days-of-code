@@ -3,6 +3,7 @@
 The log of my #100DaysOfCode #R1 challenge. Started on [January 15th, 2018].
 
 **Github Repo:** https://github.com/fishingelephants/budgety-app
+
 **Demo:** https://condescending-jang-530336.netlify.com/
 
 ## Log
@@ -195,3 +196,17 @@ The log of my #100DaysOfCode #R1 challenge. Started on [January 15th, 2018].
 
 **Backlogs:**
 - Unable to delete item [SOLVED]
+
+### R1D16 : February 1st, 2018 [Day 30]
+
+1. Calculate percentages [DONE]
+2. Update percentages in UI [DONE]
+3. Display the current month and year [DONE]
+4. Number formatting [DONE]
+5. Improve input field UX [DONE]
+
+**Thoughts:** 
+- It's done! Started off heavy and ended this project with ease.
+
+**Backlogs:**
+- none
