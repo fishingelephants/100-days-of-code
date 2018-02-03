@@ -3,7 +3,18 @@ My name is Leif. I'm a Javascript enthusiast. Know me better at fishingelephants
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
-### Day 15 - onwards = r1-log.md
+### Day 31: February 3rd, 2018
+
+**Today's Progress:** Learning ES6 / ES2015
+- What is New
+- Variable Declarations with let and constructor
+
+**Thoughts:** 
+- As much as I like the use of let and const in comparisons to using var only, I'm not sure if it's really useful in day to day coding.
+
+**Link to work:** none
+
+### Day 15 to 30: https://github.com/fishingelephants/100-days-of-code/blob/master/r1-log.md
 
 ### Day 14: January 14th, 2018
 
