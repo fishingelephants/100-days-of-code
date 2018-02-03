@@ -3,6 +3,17 @@ My name is Leif. I'm a Javascript enthusiast. Know me better at fishingelephants
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
+### Day 32: February 3rd, 2018
+
+**Today's Progress:** Learning ES6 / ES2015
+- Blocks and IIFEs
+- Strings
+
+**Thoughts:** 
+- Oh I love using strings in ES6! Makes life easier.
+
+**Link to work:** none
+
 ### Day 31: February 3rd, 2018
 
 **Today's Progress:** Learning ES6 / ES2015
