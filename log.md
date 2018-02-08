@@ -1,7 +1,19 @@
 # 100 Days Of Code - Leif Latiff - Log
-My name is Leif. I'm a Javascript enthusiast. Know me better at fishingelephants[dot]com.
+My name is Leif. I'm a JavaScript advocate. Know me better at fishingelephants[dot]com.
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
+
+### Day 35/36/37: February 8th, 2018
+
+**Today's Progress:** Learning ES6 / ES2015
+- Arrays
+- The Spread Operator
+- Rest Parameters
+
+**Thoughts:** 
+- Getting hang of with the ES6 elements.
+
+**Link to work:** none
 
 ### Day 34: February 4th, 2018
 
