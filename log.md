@@ -3,6 +3,17 @@ My name is Leif. I'm a JavaScript advocate. Know me better at fishingelephants[d
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
+### Day 38: February 10th, 2018
+
+**Today's Progress:** Learning ES6 / ES2015
+- Default Parameters
+- Rest Parameters (revision)
+
+**Thoughts:** 
+- Loving the Default Parameters on this one.
+
+**Link to work:** none
+
 ### Day 35/36/37: February 8th, 2018
 
 **Today's Progress:** Learning ES6 / ES2015
