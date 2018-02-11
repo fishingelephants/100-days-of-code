@@ -3,6 +3,16 @@ My name is Leif. I'm a JavaScript advocate. Know me better at fishingelephants[d
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
+### Day 40: February 11th, 2018
+
+**Today's Progress:** Refresher break
+- Codecademy - Introduction to JavaScript
+
+**Thoughts:** 
+- Taking a break from the main codes and did a refresher to intro to JS at Codecademy
+
+**Link to work:** none
+
 ### Day 39: February 10th, 2018
 
 **Today's Progress:** Learning ES6 / ES2015
