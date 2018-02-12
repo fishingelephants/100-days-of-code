@@ -3,6 +3,18 @@ My name is Leif. I'm a JavaScript advocate. Know me better at fishingelephants[d
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
+### Day 41: February 12th, 2018
+
+**Today's Progress:** Learning ES6 / ES2015
+- More on maps
+- Classes with subclasses
+
+**Thoughts:** 
+- Understanding more on maps - still lacking.
+- Classes with subclasses are very interesting and would love to do more practice on it.
+
+**Link to work:** none
+
 ### Day 40: February 11th, 2018
 
 **Today's Progress:** Refresher break
