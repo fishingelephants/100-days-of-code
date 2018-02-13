@@ -24,6 +24,7 @@ At an end-of-year meeting, your boss wants a final report with the following:
 All the report data should be printed to the console.
 
 HINT: Use some of the ES6 features: classes, subclasses, template strings, default parameters, maps, arrow functions, destructuring, etc.
+
 ---
 
 **Progress:** 
