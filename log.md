@@ -6,7 +6,8 @@ I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where
 ### Day 42: February 13th, 2018
 
 **Today's Challenge:** Learning ES6 / ES2015
-/*
+
+---
 Suppose that you're working in a small town administration, and you're in charge of two town elements:
 1. Parks
 2. Streets
@@ -23,9 +24,7 @@ At an end-of-year meeting, your boss wants a final report with the following:
 All the report data should be printed to the console.
 
 HINT: Use some of the ES6 features: classes, subclasses, template strings, default parameters, maps, arrow functions, destructuring, etc.
-*/
-- More on maps
-- Classes with subclasses
+---
 
 **Progress:** 
 - WIP
