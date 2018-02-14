@@ -3,6 +3,36 @@ My name is Leif. I'm a JavaScript advocate. Know me better at fishingelephants[d
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
+### Day 43: February 14th, 2018
+
+**Today's Challenge:** Learning ES6 / ES2015
+
+---
+Suppose that you're working in a small town administration, and you're in charge of two town elements:
+1. Parks
+2. Streets
+
+It's a very small town, so right now there are only 3 parks and 4 streets. All parks and streets have a name and a build year.
+
+At an end-of-year meeting, your boss wants a final report with the following:
+1. Tree density of each park in the town (forumla: number of trees/park area)
+2. Average age of each town's park (forumla: sum of all ages/number of parks)
+3. The name of the park that has more than 1000 trees
+4. Total and average length of the town's streets
+5. Size classification of all streets: tiny/small/normal/big/huge. If the size is unknown, the default is normal
+
+All the report data should be printed to the console.
+
+HINT: Use some of the ES6 features: classes, subclasses, template strings, default parameters, maps, arrow functions, destructuring, etc.
+
+---
+
+**Progress:** 
+**D1 -** Preparing for challenge
+- Having difficulty to prepare. Am looking at the planning structure on what to do first, next, etc.
+
+**Link to work:** none
+
 ### Day 42: February 13th, 2018
 
 **Today's Challenge:** Learning ES6 / ES2015
