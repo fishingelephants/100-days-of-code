@@ -3,6 +3,15 @@ My name is Leif. I'm a JavaScript advocate. Know me better at fishingelephants[d
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
+### Day 44: February 15th, 2018
+
+**Today's Progress:** Chinese New Year Intermission - Watched Youtube Videos on Ionic Framework
+
+**Thoughts:** 
+- Saw somebody was offering - build an app in 4 hours and by using Ionic Framework
+
+**Link to work:** none
+
 ### Day 43: February 14th, 2018
 
 **Today's Challenge:** Learning ES6 / ES2015
