@@ -10,7 +10,7 @@ I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where
 **Thoughts:** 
 - As long time member of devslopes, I've received email regarding their course on blockchain. 
 - So this is their Youtube's crash course introduction
-- Awesome stuff!
+- Awesome stuff
 
 **Link to work:** none
 
