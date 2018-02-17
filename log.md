@@ -3,6 +3,17 @@ My name is Leif. I'm a JavaScript advocate. Know me better at fishingelephants[d
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
+### Day 45: February 17th, 2018
+
+**Today's Progress:** Chinese New Year Intermission - Build Your Own Cryptocurrency In 10 Lines Of Codes @devslope
+
+**Thoughts:** 
+- As long time member of devslopes, I've received email regarding their course on blockchain. 
+- So this is their Youtube's crash course introduction
+- Awesome stuff!
+
+**Link to work:** none
+
 ### Day 44: February 15th, 2018
 
 **Today's Progress:** Chinese New Year Intermission - Watched Youtube Videos on Ionic Framework
