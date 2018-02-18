@@ -3,6 +3,16 @@ My name is Leif. I'm a JavaScript advocate. Know me better at fishingelephants[d
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
+### Day 46: February 18th, 2018
+
+**Today's Progress:** Chinese New Year Intermission - Watched Creating Crypto with JavaScript
+
+**Thoughts:** 
+- Another crash course video on the lazy weekends - also another CNY intermission
+- Quick look at what we can build with JavaScript
+
+**Link to work:** none
+
 ### Day 45: February 17th, 2018
 
 **Today's Progress:** Chinese New Year Intermission - Build Your Own Cryptocurrency In 10 Lines Of Codes @devslope
