@@ -33,9 +33,9 @@ HINT: Use some of the ES6 features: classes, subclasses, template strings, defau
 
 **D2 -** Laying down the classes and constructors for parks and streets
 
-**D3 -** Completed the tasks!!! Hooray!!! 
+**D3 -** Completed the tasks!!! Hooray!!! Refer link below for the codes
 
-**Link to work:** Will push to github
+**Link to work:** https://github.com/fishingelephants/100-days-of-code/blob/master/ES6Challenge.js
 
 ### Day 47: February 20th, 2018
 
