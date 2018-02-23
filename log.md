@@ -3,6 +3,16 @@ My name is Leif. I'm a JavaScript advocate. Know me better at fishingelephants[d
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
+### Day 49: February 22th, 2018
+
+**Today's Progress:** Learning ES6 / ES2015 - Trying Babeljs and knowledge test
+
+**Thoughts:** 
+- Tried Babeljs, the JavaScript compiler. Very useful.
+- It took me 3 times (almost 2 hours) to finally achieved the passing marks.
+
+**Link to work:** none
+
 ### Day 48: February 21th, 2018
 
 **Today's Challenge:** Learning ES6 / ES2015
