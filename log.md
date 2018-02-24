@@ -3,6 +3,20 @@ My name is Leif. I'm a JavaScript advocate. Know me better at fishingelephants[d
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
+### Day 50: February 24th, 2018
+
+**Today's Progress:** React with Redux
+- Prepping for next project with React
+- Installing React on Cloud9 IDE
+
+**Thoughts:** 
+- I think I'm beginning to get the hang of the coffee brewing. Plus the hot milk.
+- 2 scoops and 14 clicks on the grinder
+- Bloom for 30seconds and brew for 2:30minutes
+- 250grams of hot water and 50grams of hot milk
+
+**Link to work:** none
+
 ### Day 49: February 22th, 2018
 
 **Today's Progress:** Learning ES6 / ES2015 - Trying Babeljs and knowledge test
