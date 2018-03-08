@@ -3,6 +3,39 @@ My name is Leif. I'm a JavaScript advocate. Know me better at fishingelephants[d
 
 I've taken the 100 Days of Code challenge on January 1st, 2018 and this is where I publish my daily progress.
 
+## Day 53: March 9th, 2018
+
+**Today's Progress:** React with Redux
+- Create React App
+
+**Thoughts:** 
+- Oh boy, out of coffee beans!!!
+
+**Link to work:** https://buff.ly/2FCvVUc
+
+## Day 52: March 8th, 2018
+
+**Today's Progress:** React with Redux
+- Using a build workflow
+
+**Thoughts:** 
+- I'm officially a coffee drinker! 
+
+**Link to work:** https://buff.ly/2sTD50T
+
+## Day 51: February 25th, 2018
+
+**Today's Progress:** React with Redux
+- Getting started with React codes & fundamentals
+- React Alternatives - Angular & Vue
+- Single Page Applications & Multi Page Applications
+
+**Thoughts:** 
+- Delved into web framework (React) and understanding the advantages compared to vanilla.
+- I'm beginning to accept coffee bitterness.
+
+**Link to work:** https://buff.ly/2sTD50T
+
 ### Day 50: February 24th, 2018
 
 **Today's Progress:** React with Redux
